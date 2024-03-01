@@ -1,4 +1,4 @@
-# PokeDéxJS
+# PokéDexJS
 A web app reacreation of the Pokédex found in the world of [Pokémon](https://www.pokemon.com/uk) 
 
 The web app has two different pages, one for searching through the index of Pokémon by either scrolling, or searching them by their unique number. The other page is for viewing the chosen Pokémons stats, showing statistics such as the Pokemon's height, weight, moves, HP etc. 
