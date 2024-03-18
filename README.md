@@ -3,7 +3,7 @@ A web app reacreation of the Pokédex found in the world of [Pokémon](https://w
 
 The web app has two different pages, one for searching through the index of Pokémon by either scrolling, or searching them by their unique number. The other page is for viewing the chosen Pokémons stats, showing statistics such as the Pokemon's height, weight, moves, HP etc. 
 
-The web app also changes colour on the stas page depending on the [type](https://bulbapedia.bulbagarden.net/wiki/Type) of Pokémon you're viewing.
+The web app also changes colour on the stats page depending on the [type](https://bulbapedia.bulbagarden.net/wiki/Type) of Pokémon you're viewing.
 
 If you'd like to try out the website, please do so using this [link](https://65e25246d8f1943186a768c4--dapper-lolly-186a62.netlify.app/).
 
